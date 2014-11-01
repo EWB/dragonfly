@@ -1,0 +1,310 @@
+
+/* EWB Custom Overrides */
+
+body {
+	background-color:#2A241F;
+	background-color:#4b3827;
+	background-color:#304A62;
+	color: #444444;
+	font-family: 'Helvetica Nue',Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	line-height: 1.3em;
+}
+#credits  {
+	display:none;	
+	
+}
+#main {
+    padding: 2px 0;
+}
+#wrap  {
+	border: 4px solid #FFFFFF;
+    box-shadow: 1px 8px 9px 5px rgba(0, 0, 0, 0.3);
+	background: url("http://butchershopwoodworks.com/sites/default/files/grid_noise.png") repeat scroll 0 0 #FFFFFF;
+	
+}
+
+#slider {
+    height: 350px;
+    margin-bottom: 0px;
+    
+}
+#home-highlights  {
+	height:0px;
+	
+}
+#post-content .field-name-field-page-image img {
+    border: 4px solid #FFFFFF;
+    box-shadow: 1px 8px 9px 5px rgba(0, 0, 0, 0.3);
+	
+}
+
+.view-portfolio .views-field-title  {
+	font-size:18px;	
+	
+	
+}
+.view-portfolio p {
+		padding-top:12px;
+		font-size:15px;	
+
+	
+	
+}
+.view-portfolio img {
+	border: 4px solid #FFFFFF;
+    box-shadow: 1px 8px 9px 5px rgba(0, 0, 0, 0.3);
+	
+}
+.view-portfolio img a:link {
+	padding-bottom:6px;
+	
+}
+
+.node-type-project .panel-col-first  {
+
+	width:40%;
+	
+}
+.node-type-project .panel-col-last  {
+	width:60%;
+	
+}
+.galleryformatter h3  {
+	color:#FFF;		
+	
+}
+
+.galleryformatter-greenarrows .gallery-thumbs {
+    padding: 0 0px;
+}
+
+.footer-box .block h2 {
+	-moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	color:#FFF;
+	background-color:#666666;
+	padding:8px;
+	margin-top:0;
+	margin-bottom:0;
+	}
+#footer-saran h2 {
+		margin-bottom:0;
+		
+		
+}
+.footer-box .region-footer-first .block  h2   {
+	/*background-color:#485E1D;*/
+	background-color:#739400;	
+}
+.footer-box .region-footer-second .block  h2   {
+	background-color:#DC8A00;
+}
+.footer-box .region-footer-fourth .block  h2   {
+	background-color:#C64C01;
+}
+
+	
+	
+.footer-box div.content {
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1) inset;
+	background: none repeat scroll 0 0 #FFFFFF;
+	float: left;
+	padding: 8px; 6px 0 6px;;
+	position: relative;
+	margin-top: 0px;
+	margin-right: 2px;
+	margin-bottom: 4px;
+	margin-left: 1px;
+	min-height:180px;
+	
+	
+}
+
+
+#main table {
+    background: none repeat scroll 0 0 #FFFFFF;
+	border: none;
+	
+}
+tr.even, tr.odd {
+    background-color: #FFF;
+    border-bottom: 1px solid #CCCCCC;
+    padding: 0.9em 1.6em;
+}
+#main td {
+	background-color: #FFF;
+	padding-bottom:12px;
+	padding-top:12px;
+	padding-left:12px;
+	 border-right: none;
+	
+	
+}
+
+.page-node #post-content .field-type-image  img {
+	float:right;	
+	 margin-left: 22px;
+	
+}
+
+.page-node .content .field-type-image   {
+		padding-left:12px;
+
+	
+}
+
+.filter-wrapper { 
+
+	display: none; 
+}
+
+.views-field-field-pull-quote  {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: bold;
+	color:#333;
+	padding-bottom:5px;	
+}
+
+.view-testimonials  .item-list ul li {
+	padding-top:34px;
+	list-style-type: none;		
+	
+}
+
+.content td {
+	background:none;
+	
+	
+}
+
+.content table {
+  background: none;
+  border: none;
+}
+
+.content th {
+  background: none;
+  padding: 5px 4px;
+  text-shadow: 1px 1px #fff;
+  border-right: none;
+}
+
+.content td {
+  background: none;
+  color: #747474;
+  text-align: left;
+  padding-left: 4px;
+  border-right: none;
+  border-bottom: 1px solid #c8c7c7;
+}
+#home-quote {
+
+    padding: 20px 20px 0 20px;
+}
+
+#edit-field-contact-info  .cke_contents  {
+  height: 150px !important;
+  
+}
+
+.page-node-1 .field-name-body {
+	width:400px;
+	
+}
+
+/******** EWB Webform Styling *********/
+
+.node-type-webform .submitted {
+	display:none;
+	
+}
+
+.not-front .zone-content  {
+	
+	box-shadow: 0 0 10px #888888;
+	
+}
+.node-type-webform #edit-actions  {
+	padding-top:18px;
+
+}
+
+.webform-container-inline label {
+    float: left;
+    width: 60px;
+	margin-right: 0em;
+}
+
+.webform-container-inline .webform-component-checkboxes label {
+    display: inline;
+    margin-right: 3em;
+}
+.webform-client-form  {
+	
+	padding-left:14px;
+	
+}
+.webform-component-checkboxes .form-checkboxes  {
+	padding-left:14px;
+	
+}
+
+/********************/
+
+.search-results h3 a {
+	color: #069;
+	text-decoration: underline;
+	
+}
+.search-results h3 a:hover {
+	font-weight:bold;	
+}
+
+.search-results strong {
+	color:red;
+	
+}
+
+.search-results .search-info {
+    display: none;
+	
+}
+
+.sharethis-wrapper  {
+	padding-top:24px;
+	
+	
+}
+.region-header div#search-block-form  {
+	/*
+	float:right;*/
+	
+}
+.region-header #block-search-form  {
+		padding-left:710px;
+	
+		z-index:100 !important;
+
+	
+}
+.front .region-header #block-search-form  {
+	padding-bottom:12px;
+	
+}
+
+
+#block-block-6  {
+	padding-top:36px;	
+	
+}
+
+
+/* Search block in region header. */
+/*.region-header #block-search-form {
+  width: 208px;
+}
+.region-header #block-search-form .form-text {
+  width: 154px;
+}
+*/
